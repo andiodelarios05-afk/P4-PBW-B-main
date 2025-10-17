@@ -1,5 +1,5 @@
 # PRAKTIKUM PBW Pertemuan 4
-Nama : Raziy Ibrahim - 4523210138
+Nama : Andi Ode Larios - 4523210015
 
 ## Langkah - Langkah Praktikum
 
@@ -38,7 +38,8 @@ akun baru dan login!
 
 
 ### Hasil Praktikum
-<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/ce7fc535-d848-4b63-9852-ba0142a3d553" />
+<img width="1354" height="671" alt="image" src="https://github.com/user-attachments/assets/3509c3d2-632e-4c99-b3e7-2ae0b02a67bf" />
+
 
 
 ## Kesimpulan
